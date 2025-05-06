@@ -5,9 +5,7 @@ Customer Tracking system is designed to support shop operations. It collects inf
 
 ### Contents
 
-#### Conceptualization Report File
-
-#### Analysis Report File
-
-#### Program Code
+- Conceptualization Report File
+- Analysis Report File
+- Program Code
 
